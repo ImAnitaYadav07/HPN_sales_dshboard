@@ -10,6 +10,23 @@ The client needs the dashboard have all these tasks-
 * Show insights on monthly, weekly, quarterly and yearly base
 
 ## Files
+* [AccountHolder.csv](HPN_sales_dshboard/AccountHolder.csv)
+* [Account.csv](HPN_sales_dshboard/Account.csv)
+* [Customer.csv](HPN_sales_dshboard/Customer.csv)
+* [FactTable.csv](HPN_sales_dshboard/FactTable.csv)
+* [Organizaion.csv](HPN_sales_dshboard/Organization.csv)
+* [Products.csv](HPN_sales_dshboard/Products.csv)
+* [Finance.csv](HPN_sales_dshboard/Finance.csv)
+* [HPL Sales Dashboard](Starter_Code/.pptx)
+
+## Data Model
+This includes creating tables and establishing relationships between those tables according to rules 
+designed both to protect the data and to make the database more flexible by 
+eliminating redundancy and inconsistent dependency
+
+[AccountHolder.csv](HPN_sales_dshboard/AccountHolder.csv)
+
+* Fact Table - 
 
 
 
