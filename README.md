@@ -24,9 +24,44 @@ This includes creating tables and establishing relationships between those table
 designed both to protect the data and to make the database more flexible by 
 eliminating redundancy and inconsistent dependency
 
-[AccountHolder.csv](HPN_sales_dshboard/AccountHolder.csv)
+[AccountHolder.csv](dataModel.png)
 
-* Fact Table - 
+* Fact Table - A fact table or a fact entity is a table or entity in a star or snowflake 
+schema that stores measures that measure the business, such as sales, cost 
+of goods, or profit.
+* Dimension Table - Dimension tables are used to describe dimensions; they contain dimension 
+keys, values and attributes.
+
+## Analysis Dashboard
+
+1. Transaction Analysis -
+        [Detali Analysis](HPN_sales_dshboard/Transaction.png)
+   
+2. Quality Analysis -
+        [Quality Analysis](HPN_sales_dshboard/Quality.png)
+   
+3. Return Analysis -
+        [Return Analysis](HPN_sales_dshboard/Return.png)
+   
+4. Net Sales Analysis -
+        [Detali Analysis](HPN_sales_dshboard/Sales.png)
+   
+5. Profit Analysis -
+        [Detali Analysis](HPN_sales_dshboard/Profit.png)
+   
+6. Product Detail Report -
+        [Detali Analysis](HPN_sales_dshboard/ProductDetail.png)
+
+
+## KPIs Analysis Summery -
+
+* Overall Transaction is currently at 60,855.Transaction for Subcategory Name 'Whey Protein' and other segments are significantly higher than others.
+* Overall Quality is currently att 214378. Quantity for Subcategory Name 'Whey Protein' and other segments are significantly higher than others.
+* Overall Customer is currently at 701. Customers for 'Year Opened 1997' is significantly lower than other segments, and Customers for City Name 'Toronto' and 41 others sigments is significantly higher.
+
+[HPN Sales Analysis Report ](https://app.powerbi.com/groups/me/reports/5008b81e-993e-4a30-8aba-a6d7a2872317/ReportSection5c5cfc46dacb3ee7dd51?experience=power-bi) 
+
+
 
 
 
