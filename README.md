@@ -24,7 +24,7 @@ This includes creating tables and establishing relationships between those table
 designed both to protect the data and to make the database more flexible by 
 eliminating redundancy and inconsistent dependency
 
-[AccountHolder.csv](dataModel.png)
+[Data Model](dataModel.png)
 
 * Fact Table - A fact table or a fact entity is a table or entity in a star or snowflake 
 schema that stores measures that measure the business, such as sales, cost 
